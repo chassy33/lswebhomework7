@@ -1,0 +1,5 @@
+-Array: an array is a list of values that can be integers, strings, or boolean values. all stored within the same container
+
+-Object: variables that contain may types of different values
+
+-Method: actions that are performed within objects
